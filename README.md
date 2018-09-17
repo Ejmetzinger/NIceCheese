@@ -1,2 +1,2 @@
-# NIceCheese
+# NiceCheese
 this is a practice
